@@ -51,7 +51,7 @@ This repository contains a Proof of Concept (PoC) Python script designed to navi
 
 ## 📂 Project Structure
 
-- `b2c01hansemerkur_2.py`: The core automation engine handling the B2C requests.
+- `b2c01hansemerkur.py`: The core automation engine handling the B2C requests.
 
 - `vpn.txt`: Configuration file for proxy routing.
 
