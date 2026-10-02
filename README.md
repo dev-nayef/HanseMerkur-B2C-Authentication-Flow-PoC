@@ -35,8 +35,8 @@ This repository contains a Proof of Concept (PoC) Python script designed to navi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/b2c-auth-automation.git
-   cd b2c-auth-automation
+   git clone https://github.com/dev-nayef/HanseMerkur-B2C-Auto-Registrator-Bot.git
+   cd HanseMerkur-B2C-Auto-Registrator-Bot
    ```
 
 2. **Configure Proxies (Recommended to bypass IP block security):**
