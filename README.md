@@ -14,7 +14,7 @@ This repository contains a Proof of Concept (PoC) Python script designed to navi
 
 - **Complex Session Management:** Programmatic extraction and handling of dynamic Microsoft B2C parameters (e.g., `x-ms-cpim-csrf`, `state`, and cookies) using the `requests` library.
 
-- **Automated OTP Verification:** Integration with disposable email APIs (`tempm.com`) to programmatically fetch, parse, and submit One-Time Passwords (OTP) in real-time.
+- **Automated OTP Verification:** Integration with the (`mail.tm`) disposable email API—utilizing Bearer Authorization Tokens to programmatically provision temporary accounts, continuously poll inboxes, and extract One-Time Passwords (OTP) in real-time using targeted regex.
 
 - **Concurrency & Performance:** Implementation of Python's `threading` modules to run multiple authentication workflows simultaneously, optimizing execution time.
 
@@ -46,7 +46,7 @@ This repository contains a Proof of Concept (PoC) Python script designed to navi
 3. **Run the automation:**
 
    ```bash
-   python b2c01hansemerkur_2.py
+   python b2c01hansemerkur.py
    ```
 
 ## 📂 Project Structure
