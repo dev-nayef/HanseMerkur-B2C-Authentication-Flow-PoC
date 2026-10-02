@@ -59,11 +59,13 @@ This repository contains a Proof of Concept (PoC) Python script designed to navi
 
 - `README.md`: Project documentation.
 
-## ⚠ Legal & Ethical Disclaimer
+## ⚠️ Security Research Disclaimer
 
-**Strictly for Educational and Authorized Testing Purposes.**
+This repository demonstrates techniques related to **web authentication, HTTP session management, and automation** for educational and security research purposes.
 
-This script is provided as a technical demonstration of automating web requests and understanding authentication architecture. The author does not condone, encourage, or support the use of this tool for spam, malicious activities, or violating the Terms of Service of any platform. The creator assumes no liability for any misuse of this software. Use responsibly.
+All testing should be performed in controlled environments or against systems where explicit authorization has been granted. The techniques presented here should not be used to bypass security controls, abuse services, or violate applicable Terms of Service.
+
+The responsibility for lawful and authorized use of this software rests entirely with the user.
 
 ## 📝 License
 
