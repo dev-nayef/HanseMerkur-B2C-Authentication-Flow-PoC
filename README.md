@@ -31,7 +31,7 @@ The primary focus is understanding how modern web identity flows operate at the 
 - Required Python packages (install via `pip`):
 
   ```bash
-  pip install requests beautifulsoup4 names selenium phonenumbers pycountry phone-iso3166
+  pip install requests beautifulsoup4 names phonenumbers pycountry phone-iso3166
   ```
 
 ## ⚙️ Setup and Execution
@@ -39,8 +39,8 @@ The primary focus is understanding how modern web identity flows operate at the 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/dev-nayef/HanseMerkur-B2C-Auto-Registrator-Bot.git
-   cd HanseMerkur-B2C-Auto-Registrator-Bot
+   git clone https://github.com/dev-nayef/HanseMerkur-B2C-Authentication-Flow-PoC.git
+   cd HanseMerkur-B2C-Authentication-Flow-PoC
    ```
 
 2. **Configure Network Routing (Optional):**
